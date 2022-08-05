@@ -1,6 +1,3 @@
-mysql -u root -p
-Dark7510##
-
 DROP database StudentRecordKeeping_DB;
 create database StudentRecordKeeping_DB;
 use StudentRecordKeeping_DB;
