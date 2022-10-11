@@ -1,0 +1,1 @@
+-Developed a database in SQL that allowed us to keep track of students within a specified institution. 
